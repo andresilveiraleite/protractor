@@ -33,7 +33,6 @@ webdriver-manager update
 For running protractor just execute the below grunt tasks.
 Exemplo de README.md
 20 2.2 ESTRUTURA DE PROJETO
-E-book gerado especialmente para André Leite - asmla@hotmail.com
 grunt server:e2e // run this in one console's tab grunt
 test:protractor // run this in another console's tab
 
