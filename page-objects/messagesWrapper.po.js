@@ -10,5 +10,3 @@ var MessagesWrapper = function() {
 };
 
 module.exports = MessagesWrapper;
-
-

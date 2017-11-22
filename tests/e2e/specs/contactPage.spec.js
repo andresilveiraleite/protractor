@@ -1,4 +1,3 @@
-
 var ContactPage = require('/../protactor/page-objects/contactPage.po.js');
 describe('contact page', function() {
     var contactPage = new ContactPage();
